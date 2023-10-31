@@ -1,0 +1,1 @@
+print("arr_1D :" ,ar_2D.shape)
